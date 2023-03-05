@@ -197,6 +197,5 @@ Logistic regression is a powerful method for modeling the probability of prepaym
 
 ![1](https://user-images.githubusercontent.com/71137605/221263155-99509e1d-ceb6-4e8e-9696-cfed798a47cf.png)
 
-**deployment link aws**
-
-![0](http://ec2-52-194-243-111.ap-northeast-1.compute.amazonaws.com:8080/)
+# DEPLOYMENT
+Deployement link : **http://ec2-52-194-243-111.ap-northeast-1.compute.amazonaws.com:8080/**
